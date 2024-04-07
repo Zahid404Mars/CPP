@@ -1,3 +1,4 @@
+//255423216	Apr/07/2024 12:06UTC+6	jahid_hasan_metnick	71A - Way Too Long Words	C++17 (GCC 7-32)	Accepted	61 ms	100 KB
 #include<iostream>
 #include<String>
 using namespace std;
