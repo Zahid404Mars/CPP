@@ -1,7 +1,7 @@
 //256251735	Apr/12/2024 19:51UTC+6	jahid_hasan_metnick	160A - Twins	C++17 (GCC 7-32)	Accepted	124 ms	0 KB
 
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std
 int main()
 {
     long long n,m,i,j,sum,cnt,ans;
